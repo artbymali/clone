@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 100px;
+}
+
+.top-middle-main-right-collums{
+    display: flex;
+    flex-direction: column;
+    gap: -5rem;
+}
